@@ -1,2 +1,2 @@
 # Activity recognizer
- Model to Detect which activity is portrayed in the provided youtube link
+ Model to Detect which celebrity is in the given youtube video
