@@ -1,6 +1,9 @@
-Flask==2.0.0
 numpy==1.19.0
-opencv_python==4.5.1.48
+pafy==0.5.5
+youtube_dl==2021.5.16
+Flask==2.0.0
 imageio==2.9.0
+opencv_python==4.5.1.48
 Keras==2.4.3
+python_vlc==3.0.12118
 tensorflow==2.2.0
