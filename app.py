@@ -8,8 +8,8 @@ import cv2
 from imageio import imread
 from glob import glob
 import numpy as np
-#import vlc
- 
+
+
 app = Flask(__name__)
 app.config['SECRET_KEY'] = "supertopsecretprivatekey"
 
