@@ -91,7 +91,7 @@ def home():
         for file in os.scandir(directory):
             os.remove(file.path)
         
-        return render_template('index.html')#, prediction = predicted_class)
+        return render_template('index.html', prediction = predicted_class)
 
 def face_extractor(img):
     # Function detects faces and returns the cropped face
